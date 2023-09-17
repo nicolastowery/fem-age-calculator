@@ -74,6 +74,7 @@ function AgeCalculator() {
             placeholder="DD"
           />
           <span>{dayError}</span>
+          <div>Hello</div>
         </div>
         <div>
           <label>Month</label>
